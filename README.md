@@ -33,3 +33,5 @@ It will be used by the stakeholders when defining their global editorial line an
 ## Deliverables:
 * [Project Brief](https://drive.google.com/file/d/1S-5qFRrm9-zNXSQyjhvI0MlLSvt1Pcqx/view?usp=sharing)
 * [Storyboard in Tableau](https://public.tableau.com/views/6_7_17093948063330/Story1?:language=fr-FR&publish=yes&:sid=4C43CCF0A17E475C8764470A63631B80-0:0&:display_count=n&:origin=viz_share_link)
+
+<img width="960" alt="Capture d'écran 2024-03-05 192100" src="https://github.com/ChloeManeval/Python-Film-Industry/assets/160489969/b418f4c7-3aa9-4f69-846a-aff20c0833af">
