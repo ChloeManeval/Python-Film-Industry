@@ -7,8 +7,9 @@ This repository contains the Jupyter notebooks I used during my student project 
 * Microsoft Excel
 * Tableau Public
 ## Structure of the data set
-* 1 data set and 1 GeoJSON file
+* 1 data set, made available by by Daniel Grijalva, a Kaggle user who scraped the data from the IMDb website. The owner of the data is therefore Daniel Grijalva, who created the data set and made it available for use online, under the CC0 1.0 Universal license. The data sets can be accessed [here](https://www.kaggle.com/datasets/danielgrijalvas/movies).
 * Size of the final data set: 7000 rows, 14 columns.
+* 1 GeoJSON file, which can be accessed [here](https://datahub.io/core/geo-countries/r/0.html). The data is licensed under the Open Data Commons Public Domain Dedication and License. Note that the original data has been made available thank to  Natural Earth, Lexman and the Open Knowledge Foundation. All source code is licenced under the MIT licence.
 More information can be found in the [project brief](https://drive.google.com/file/d/1S-5qFRrm9-zNXSQyjhvI0MlLSvt1Pcqx/view?usp=sharing). 
 
 
